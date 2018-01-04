@@ -1,1 +1,2 @@
-theme: phodal/mifa.jekyll
+plugins:
+  - jekyll-seo-tag
