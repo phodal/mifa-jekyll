@@ -1,8 +1,9 @@
 PATH
   remote: .
   specs:
-    jekyll-theme-hacker (0.1.0)
+    mifa (0.1.0)
       jekyll (~> 3.5)
+      jekyll-readme-index (~> 0.2.0)
       jekyll-seo-tag (~> 2.0)
 
 GEM
@@ -79,7 +80,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll-readme-index
   jekyll-remote-theme
-  jekyll-theme-hacker!
+  mifa!
 
 BUNDLED WITH
    1.16.1
