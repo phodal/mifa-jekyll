@@ -1,7 +1,7 @@
 # encoding: utf-8
 
 Gem::Specification.new do |s|
-  s.name          = "mifa"
+  s.name          = "mifa-jekyll"
   s.version       = "0.1.0"
   s.license       = "CC0-1.0"
   s.authors       = ["Phodal Huang"]
