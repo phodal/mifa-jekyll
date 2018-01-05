@@ -8,9 +8,6 @@ description: > # this means to ignore newlines until "baseurl:"
 twitter_username: jekyllrb
 github_username:  jekyll
 
-minima:
-  date_format: "%b %-d, %Y"
-
 markdown: kramdown
 exclude:
   - Gemfile
