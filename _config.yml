@@ -1,2 +1,5 @@
+gems:
+  - jekyll-readme-index
+
 plugins:
   - jekyll-seo-tag
